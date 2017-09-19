@@ -2,6 +2,9 @@
 using System.IO;
 using System.Text;
 using System.Threading;
+using System.Net;
+using System.Net.Sockets;
+using System.Security.Cryptography;
 
 namespace Test
 {
@@ -9,7 +12,7 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            memStreamDemo();
+            
         }
 
         static void SyncIO(){
@@ -59,6 +62,71 @@ namespace Test
             // WriteTo() нужен для записи всего содержимого потока в памяти в файловый поток
             Stream strm = new FileStream("C:\\Users\\Drus\\Desktop\\Test\\MemOutput.txt",FileMode.OpenOrCreate,FileAccess.Write);
             mS.WriteTo(strm);
+        }
+        // Чтение и запись двоичных данных Binary
+        static void BinaryGetting(){
+            double angle, sinAngle;
+            FileStream fStream = new FileStream(@"D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\Sines.dat",FileMode.Create,FileAccess.Write);
+            BinaryWriter bW = new BinaryWriter(fStream);
+            for(int i = 0; i <= 90; i+=5){
+                double angleRads = Math.PI * i / 180;
+                sinAngle = Math.Sin(angleRads);
+                bW.Write((double)i);
+                bW.Write(sinAngle);
+            }
+            bW.Dispose();
+            fStream.Dispose();
+            FileStream frStream = new FileStream(@"D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\Sines.dat",FileMode.Open,FileAccess.Read);
+            BinaryReader br = new BinaryReader(frStream);
+            int endOfFile;
+            do{
+                endOfFile = br.PeekChar();
+                // br.PeekChar возвращает -1 в конце файла
+                if(endOfFile != -1){
+                    angle = br.ReadDouble();
+                    sinAngle = br.ReadDouble();
+                    Console.WriteLine("{0} : {1}", angle, sinAngle);
+                }
+            }
+            while(endOfFile != -1);
+            br.Dispose();
+            frStream.Dispose();
+        }
+        static void TextReader(){
+            Stream fS = new FileStream("TextOut.txt", FileMode.OpenOrCreate, FileAccess.Read);
+            StreamReader sReader = new StreamReader(fS);
+            string data;
+            int line = 0;
+            while((data = sReader.ReadLine()) != null){
+                Console.WriteLine("Line {0}: {1} : Position = {2}", ++line,data,sReader.BaseStream.Position);
+            }
+            // Устанавливаем позицию, используя поисковое свойство базового потока
+            sReader.BaseStream.Seek(0,SeekOrigin.Begin);
+            Console.WriteLine("* Reading entire file using ReadToEnd \n" + sReader.ReadToEnd());
+            sReader.Dispose();
+            fS.Dispose();
+        }
+        static void TextWriting(){
+            Stream fS = new FileStream("TextOut1.txt", FileMode.CreateNew, FileAccess.Write);
+            StreamWriter sWriter = new StreamWriter(fS);
+            // Отображаем тип кодировки
+            Console.WriteLine("Encoding type : " + sWriter.Encoding.ToString());
+            // Отображаем провайдер формата
+            Console.WriteLine("Format Provider : " + sWriter.FormatProvider.ToString());
+            sWriter.WriteLine("Today is {0}.", DateTime.Today.DayOfWeek);
+            sWriter.WriteLine("Today we will mostly be using StreamWritter");
+            for(int i = 0; i < 5; i++){
+                sWriter.WriteLine("Value {0}, its square is {1}",i,i*i);
+            }
+            sWriter.Write("Arrays can be written : ");
+            char[] myArray = new char[] {'a','r','r','a','y'};
+
+            sWriter.Write(myArray);
+            sWriter.WriteLine("\r\nAnd parts of arrays can be written");
+            sWriter.Write(myArray,0,3);
+
+            sWriter.Dispose();
+            fS.Dispose();
         }
     }
 }

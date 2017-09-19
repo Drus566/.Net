@@ -1,0 +1,4 @@
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\UdpFileReceiver\UdpFileReceiver\bin\Debug\UdpFileReceiver.exe
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\UdpFileReceiver\UdpFileReceiver\bin\Debug\UdpFileReceiver.pdb
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\UdpFileReceiver\UdpFileReceiver\obj\Debug\UdpFileReceiver.exe
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\UdpFileReceiver\UdpFileReceiver\obj\Debug\UdpFileReceiver.pdb

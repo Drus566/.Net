@@ -1,0 +1,4 @@
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\DecSecurity\DecSecurity\bin\Debug\DecSecurity.exe
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\DecSecurity\DecSecurity\bin\Debug\DecSecurity.pdb
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\DecSecurity\DecSecurity\obj\Debug\DecSecurity.exe
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\DecSecurity\DecSecurity\obj\Debug\DecSecurity.pdb

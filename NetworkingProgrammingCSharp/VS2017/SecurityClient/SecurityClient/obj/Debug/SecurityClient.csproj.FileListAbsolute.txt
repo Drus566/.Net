@@ -1,0 +1,5 @@
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\SecurityClient\SecurityClient\bin\Debug\SecurityClient.exe
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\SecurityClient\SecurityClient\bin\Debug\SecurityClient.pdb
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\SecurityClient\SecurityClient\obj\Debug\SecurityClient.csprojResolveAssemblyReference.cache
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\SecurityClient\SecurityClient\obj\Debug\SecurityClient.exe
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\SecurityClient\SecurityClient\obj\Debug\SecurityClient.pdb

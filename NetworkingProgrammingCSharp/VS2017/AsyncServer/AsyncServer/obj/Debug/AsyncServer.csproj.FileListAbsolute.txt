@@ -1,0 +1,5 @@
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\AsyncServer\AsyncServer\bin\Debug\AsyncServer.exe
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\AsyncServer\AsyncServer\bin\Debug\AsyncServer.pdb
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\AsyncServer\AsyncServer\obj\Debug\AsyncServer.csprojResolveAssemblyReference.cache
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\AsyncServer\AsyncServer\obj\Debug\AsyncServer.exe
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\AsyncServer\AsyncServer\obj\Debug\AsyncServer.pdb

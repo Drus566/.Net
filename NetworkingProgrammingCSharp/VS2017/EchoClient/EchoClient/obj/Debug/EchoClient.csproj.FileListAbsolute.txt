@@ -1,0 +1,4 @@
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\EchoClient\EchoClient\bin\Debug\EchoClient.exe
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\EchoClient\EchoClient\bin\Debug\EchoClient.pdb
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\EchoClient\EchoClient\obj\Debug\EchoClient.exe
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\EchoClient\EchoClient\obj\Debug\EchoClient.pdb

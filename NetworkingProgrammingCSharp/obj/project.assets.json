@@ -7080,16 +7080,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Drus\\Desktop\\Test\\Test.csproj",
+      "projectUniqueName": "D:\\Develop\\Projects\\GitHub\\Traning\\NetworkingProgrammingCSharp\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\Drus\\Desktop\\Test\\Test.csproj",
-      "outputPath": "C:\\Users\\Drus\\Desktop\\Test\\obj\\",
+      "projectPath": "D:\\Develop\\Projects\\GitHub\\Traning\\NetworkingProgrammingCSharp\\Test.csproj",
+      "outputPath": "D:\\Develop\\Projects\\GitHub\\Traning\\NetworkingProgrammingCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/Test.dll": "C:\\Users\\Drus\\Desktop\\Test\\bin\\placeholder\\netcoreapp1.1\\Test.dll"
+        "lib/netcoreapp1.1/Test.dll": "D:\\Develop\\Projects\\GitHub\\Traning\\NetworkingProgrammingCSharp\\bin\\placeholder\\netcoreapp1.1\\Test.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {

@@ -1,0 +1,5 @@
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\SocketClient\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\SocketClient\SocketClient\obj\Debug\SocketClient.pdb

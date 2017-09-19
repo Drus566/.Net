@@ -1,0 +1,10 @@
+Today is Tuesday.
+Today we will mostly be using StreamWritter
+Value 0, its square is 0
+Value 1, its square is 1
+Value 2, its square is 4
+Value 3, its square is 9
+Value 4, its square is 16
+Arrays can be written : array
+And parts of arrays can be written
+arr

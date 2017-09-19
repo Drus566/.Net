@@ -1,0 +1,5 @@
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\UdpFileSender\UdpFileSender\obj\Debug\UdpFileSender.csprojResolveAssemblyReference.cache
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\UdpFileSender\UdpFileSender\bin\Debug\UdpFileSender.exe
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\UdpFileSender\UdpFileSender\bin\Debug\UdpFileSender.pdb
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\UdpFileSender\UdpFileSender\obj\Debug\UdpFileSender.exe
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\UdpFileSender\UdpFileSender\obj\Debug\UdpFileSender.pdb

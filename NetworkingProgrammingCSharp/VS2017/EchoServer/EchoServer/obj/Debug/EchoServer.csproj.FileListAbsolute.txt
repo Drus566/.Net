@@ -1,0 +1,5 @@
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\EchoServer\EchoServer\bin\Debug\EchoServer.exe
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\EchoServer\EchoServer\bin\Debug\EchoServer.pdb
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\EchoServer\EchoServer\obj\Debug\EchoServer.csprojResolveAssemblyReference.cache
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\EchoServer\EchoServer\obj\Debug\EchoServer.exe
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\EchoServer\EchoServer\obj\Debug\EchoServer.pdb

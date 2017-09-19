@@ -1,0 +1,4 @@
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
