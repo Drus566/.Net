@@ -1,0 +1,2 @@
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\PicturePackager\PicturePackager\bin\Debug\PicturePackager.dll
+D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\PicturePackager\PicturePackager\obj\Debug\PicturePackager.dll
