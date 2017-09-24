@@ -7,6 +7,7 @@ using System.Xml;
 
 namespace PicturePackager
 {
+    //Пакеты изображений
     public class PicturePackage
     {
         private string name;

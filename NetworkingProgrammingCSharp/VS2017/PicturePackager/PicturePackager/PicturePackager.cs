@@ -8,6 +8,7 @@ using System.Drawing.Imaging;
 
 namespace PicturePackager
 {
+    //Упаковщик пакетов изображений
     class PicturePackager
     {
         protected PicturePackager()

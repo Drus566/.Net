@@ -1,0 +1,4 @@
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\RemotingSample\RemotingSample\bin\Debug\RemotingSample.dll
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\RemotingSample\RemotingSample\obj\Debug\RemotingSample.csprojResolveAssemblyReference.cache
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\RemotingSample\RemotingSample\obj\Debug\RemotingSample.csproj.CoreCompileInputs.cache
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\RemotingSample\RemotingSample\obj\Debug\RemotingSample.dll

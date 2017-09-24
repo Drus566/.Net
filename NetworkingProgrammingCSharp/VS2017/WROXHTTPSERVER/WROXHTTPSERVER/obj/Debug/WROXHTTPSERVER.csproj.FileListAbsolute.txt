@@ -1,0 +1,5 @@
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\WROXHTTPSERVER\WROXHTTPSERVER\bin\Debug\WROXHTTPSERVER.exe
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\WROXHTTPSERVER\WROXHTTPSERVER\bin\Debug\WROXHTTPSERVER.pdb
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\WROXHTTPSERVER\WROXHTTPSERVER\obj\Debug\WROXHTTPSERVER.csproj.CoreCompileInputs.cache
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\WROXHTTPSERVER\WROXHTTPSERVER\obj\Debug\WROXHTTPSERVER.exe
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\WROXHTTPSERVER\WROXHTTPSERVER\obj\Debug\WROXHTTPSERVER.pdb

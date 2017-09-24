@@ -1,0 +1,6 @@
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb

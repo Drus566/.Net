@@ -1,0 +1,6 @@
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\DownloadData\DownloadData\bin\Debug\DownloadData.exe
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\DownloadData\DownloadData\bin\Debug\DownloadData.pdb
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\DownloadData\DownloadData\obj\Debug\DownloadData.csprojResolveAssemblyReference.cache
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\DownloadData\DownloadData\obj\Debug\DownloadData.csproj.CoreCompileInputs.cache
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\DownloadData\DownloadData\obj\Debug\DownloadData.exe
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\DownloadData\DownloadData\obj\Debug\DownloadData.pdb

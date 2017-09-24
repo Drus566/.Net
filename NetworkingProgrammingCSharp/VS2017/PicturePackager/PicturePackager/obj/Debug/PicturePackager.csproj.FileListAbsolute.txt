@@ -1,2 +1,6 @@
 D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\PicturePackager\PicturePackager\bin\Debug\PicturePackager.dll
 D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\PicturePackager\PicturePackager\obj\Debug\PicturePackager.dll
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\PicturePackager\PicturePackager\bin\Debug\PicturePackager.dll
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\PicturePackager\PicturePackager\obj\Debug\PicturePackager.csprojResolveAssemblyReference.cache
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\PicturePackager\PicturePackager\obj\Debug\PicturePackager.csproj.CoreCompileInputs.cache
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\PicturePackager\PicturePackager\obj\Debug\PicturePackager.dll
