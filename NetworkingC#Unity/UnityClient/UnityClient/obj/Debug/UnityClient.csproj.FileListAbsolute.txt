@@ -1,0 +1,4 @@
+E:\Develop\Projects\Git\Traning\NetworkingC#Unity\UnityClient\UnityClient\bin\Debug\UnityClient.dll
+E:\Develop\Projects\Git\Traning\NetworkingC#Unity\UnityClient\UnityClient\obj\Debug\UnityClient.csprojResolveAssemblyReference.cache
+E:\Develop\Projects\Git\Traning\NetworkingC#Unity\UnityClient\UnityClient\obj\Debug\UnityClient.csproj.CoreCompileInputs.cache
+E:\Develop\Projects\Git\Traning\NetworkingC#Unity\UnityClient\UnityClient\obj\Debug\UnityClient.dll

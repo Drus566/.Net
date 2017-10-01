@@ -1,0 +1,6 @@
+E:\Develop\Projects\Git\Traning\NetworkingC#Unity\ServerForUnity\ServerForUnity\obj\Debug\ServerForUnity.csprojResolveAssemblyReference.cache
+E:\Develop\Projects\Git\Traning\NetworkingC#Unity\ServerForUnity\ServerForUnity\obj\Debug\ServerForUnity.csproj.CoreCompileInputs.cache
+E:\Develop\Projects\Git\Traning\NetworkingC#Unity\ServerForUnity\ServerForUnity\bin\Debug\ServerForUnity.exe
+E:\Develop\Projects\Git\Traning\NetworkingC#Unity\ServerForUnity\ServerForUnity\bin\Debug\ServerForUnity.pdb
+E:\Develop\Projects\Git\Traning\NetworkingC#Unity\ServerForUnity\ServerForUnity\obj\Debug\ServerForUnity.exe
+E:\Develop\Projects\Git\Traning\NetworkingC#Unity\ServerForUnity\ServerForUnity\obj\Debug\ServerForUnity.pdb

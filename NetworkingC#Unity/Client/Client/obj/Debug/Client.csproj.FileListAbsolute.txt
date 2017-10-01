@@ -1,0 +1,5 @@
+E:\Develop\Projects\Git\Traning\NetworkingC#Unity\Client\Client\bin\Debug\Client.exe
+E:\Develop\Projects\Git\Traning\NetworkingC#Unity\Client\Client\bin\Debug\Client.pdb
+E:\Develop\Projects\Git\Traning\NetworkingC#Unity\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Develop\Projects\Git\Traning\NetworkingC#Unity\Client\Client\obj\Debug\Client.exe
+E:\Develop\Projects\Git\Traning\NetworkingC#Unity\Client\Client\obj\Debug\Client.pdb
