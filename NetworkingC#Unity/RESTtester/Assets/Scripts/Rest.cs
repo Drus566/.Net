@@ -7,7 +7,8 @@ using System;
 
 public class Rest : MonoBehaviour {
 
-	public InputField GetField;
+	public InputField UrlField;
+    public InputField[] UserField;
 	public Text Logs;
 
 	private string serverApi = "http://localhost:51394/api/";
@@ -19,7 +20,11 @@ public class Rest : MonoBehaviour {
     List<Instance> instances = new List<Instance>();
 	
 	void Start(){
-		GetField.text = "user/1";
+		UrlField.text = "user/1";
+
+        UserField[0].text = "DefaultName";
+        UserField[1].text = "DefaultPass";
+        UserField[2].text = "DefaultStatus";
     }
 
     public void Get(){
@@ -28,16 +33,21 @@ public class Rest : MonoBehaviour {
 
     public void Post()
     {
-       // StartCoroutine(PostEnum());
+        StartCoroutine(PostEnum());
     }
 
-	/*private IEnumerator PostEnum(){
-        WWWForm form = new WWWForm();
-        form.AddField("")
-	}*/
+    public void Put()
+    {
+        StartCoroutine(PutEnum());
+    }
 
-	private IEnumerator GetEnum(){
-		string url = GetField.text;
+    public void Delete()
+    {
+        StartCoroutine(DeleteEnum());
+    }
+
+    private IEnumerator GetEnum(){
+        string url = UrlField.text;
 
 		//Если запрос на коллекцию пользователей
 		if(!IsNumberContains(url)){
@@ -107,6 +117,80 @@ public class Rest : MonoBehaviour {
 		}
 	}
 
+    private IEnumerator PostEnum()
+    {
+        WWWForm form = new WWWForm();
+        form.AddField("Username", UserField[0].text);
+        form.AddField("Password", UserField[1].text);
+        form.AddField("Status", UserField[2].text);
+
+        using (UnityWebRequest www = UnityWebRequest.Post("http://localhost:51394/api/user", form))
+        {
+
+            yield return www.Send();
+
+            if (www.isError)
+            {
+                print(www.isError);
+                Logs.text += www.isError + "\r\n\r\n";
+            }
+            else
+            {
+                print("Form upload complete");
+                Logs.text += www.downloadHandler.text + " объект создан\r\n\r\n";
+            }
+        }
+    }
+
+    private IEnumerator PutEnum()
+    {
+        string url = UrlField.text;
+        User user = new User(UserField[0].text, UserField[1].text, UserField[2].text);
+
+        using (UnityWebRequest www = UnityWebRequest.Put(serverApi + url, JsonUtility.ToJson(user)))
+        {
+            www.SetRequestHeader("Content-Type", "application/json");
+            yield return www.Send();
+
+            if (www.isError)
+            {
+               print(www.isError);
+               Logs.text += www.isError + "\r\n\r\n";
+            }
+            else
+            {
+               print("Form upload complete");
+               Logs.text += www.downloadHandler.text + " изменен\r\n\r\n";
+            }
+        } 
+    }
+
+    private IEnumerator DeleteEnum()
+    {
+        string url = UrlField.text;
+        UnityWebRequest getReq = UnityWebRequest.Delete(serverApi + UrlField.text);
+        yield return getReq.Send();
+
+        if (getReq.isError)
+        {
+            print(getReq.error);
+            Logs.text += getReq.error + "\r\n\r\n";
+        }
+        else
+        {
+            string id = "";
+            foreach (char c in url)
+            {
+                if (Char.IsNumber(c))
+                {
+                   id += c;
+                }
+            }
+            Logs.text += String.Format("The object on ID : " + id + " deleted\r\n\r\n");
+        }
+    }
+
+
     //Проверка на наличие в строке цифр (если в методе Get есть цифры, то значит это 
     //запрос на конкретного пользователя по его айди, иначе на коллекцию
     private bool IsNumberContains(string input)
@@ -139,11 +223,20 @@ public class Rest : MonoBehaviour {
 
 [Serializable]
 public class User{
+
 	public int ID;
 	public string Username;
 	public string Password;
 	public string Status;
 
+    public User(){}
+    
+    public User(string name, string pass, string stat)
+    {
+        Username = name;
+        Password = pass;
+        Status = stat;
+    }
     public string Output(){
         string message;
         return message = "ID : " + ID +
@@ -155,6 +248,7 @@ public class User{
 
 [Serializable]
 public class Instance{
+
 	public int ID;
 	public int player1Id;
 	public int player2Id;
