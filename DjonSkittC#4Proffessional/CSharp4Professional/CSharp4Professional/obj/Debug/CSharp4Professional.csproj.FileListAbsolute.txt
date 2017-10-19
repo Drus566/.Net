@@ -1,0 +1,7 @@
+D:\Develop\Projects\GitHub\Traning\DjonSkittC#4Proffessional\CSharp4Professional\CSharp4Professional\bin\Debug\CSharp4Professional.exe.config
+D:\Develop\Projects\GitHub\Traning\DjonSkittC#4Proffessional\CSharp4Professional\CSharp4Professional\bin\Debug\CSharp4Professional.exe
+D:\Develop\Projects\GitHub\Traning\DjonSkittC#4Proffessional\CSharp4Professional\CSharp4Professional\bin\Debug\CSharp4Professional.pdb
+D:\Develop\Projects\GitHub\Traning\DjonSkittC#4Proffessional\CSharp4Professional\CSharp4Professional\obj\Debug\CSharp4Professional.csprojResolveAssemblyReference.cache
+D:\Develop\Projects\GitHub\Traning\DjonSkittC#4Proffessional\CSharp4Professional\CSharp4Professional\obj\Debug\CSharp4Professional.csproj.CoreCompileInputs.cache
+D:\Develop\Projects\GitHub\Traning\DjonSkittC#4Proffessional\CSharp4Professional\CSharp4Professional\obj\Debug\CSharp4Professional.exe
+D:\Develop\Projects\GitHub\Traning\DjonSkittC#4Proffessional\CSharp4Professional\CSharp4Professional\obj\Debug\CSharp4Professional.pdb
