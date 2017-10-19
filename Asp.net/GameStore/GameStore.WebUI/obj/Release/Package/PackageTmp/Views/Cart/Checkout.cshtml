@@ -1,0 +1,20 @@
+﻿@model GameStore.WebUI.Models.CartIndexViewModel
+@{
+    ViewBag.Title = "GameStore: форма заказа";
+}
+
+<div class="form-group">
+    <form method="post" action="https://wl.walletone.com/checkout/checkout/Index">
+        <label>Сумма заказа</label>
+        <input class="form-control" name="WMI_PAYMENT_AMOUNT" value="@String.Format("{0}",Model.Cart.ComputeTotalValue().ToString(System.Globalization.CultureInfo.GetCultureInfo("en-US")))" />
+        <input type="hidden" name="WMI_MERCHANT_ID" value="119839267508" />
+        <input type="hidden" name="WMI_CURRENCY_ID" value="643" />
+        <input type="hidden" name="WMI_DESCRIPTION" value="Test Buy" />
+        <input type="hidden" name="WMI_SUCCESS_URL" value="http://morda566-001-site1.gtempurl.com/" />
+        <input type="hidden" name="WMI_FAIL_URL" value="http://morda566-001-site1.gtempurl.com/" />
+        <br />
+        <input type="submit" class="btn btn-primary" />
+    </form>    
+</div>
+
+

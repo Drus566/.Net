@@ -3,3 +3,9 @@ D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\UdpChat\Ud
 D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\UdpChat\UdpChat\obj\Debug\UdpChat.csprojResolveAssemblyReference.cache
 D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\UdpChat\UdpChat\obj\Debug\UdpChat.exe
 D:\Develop\Projects\GitHub\Traning\NetworkingProgrammingCSharp\VS2017\UdpChat\UdpChat\obj\Debug\UdpChat.pdb
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\UdpChat\UdpChat\bin\Debug\UdpChat.exe
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\UdpChat\UdpChat\bin\Debug\UdpChat.pdb
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\UdpChat\UdpChat\obj\Debug\UdpChat.csprojResolveAssemblyReference.cache
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\UdpChat\UdpChat\obj\Debug\UdpChat.csproj.CoreCompileInputs.cache
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\UdpChat\UdpChat\obj\Debug\UdpChat.exe
+E:\Develop\Projects\Git\Traning\NetworkingProgrammingCSharp\VS2017\UdpChat\UdpChat\obj\Debug\UdpChat.pdb

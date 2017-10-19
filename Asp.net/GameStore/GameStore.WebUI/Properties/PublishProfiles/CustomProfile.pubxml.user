@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Этот файл используется процессом публикации или упаковки вашего веб-проекта. Можно настроить поведение этого процесса,
+изменив этот файл MSBuild. Подробности см. на странице https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJDE/0IjrfkiPwbGRqE7OIQAAAAACAAAAAAAQZgAAAAEAACAAAABpgdvnW1Tf3VgLGy8YlgOq2mEjRH6z+NpzqIwpEJF2SQAAAAAOgAAAAAIAACAAAAATK3a1D9ksQ4HwRTxaODRnLzUR33VyZaCPUOBB2r1a9yAAAAAZW852esJT+VGG8HFfEKwIir+TQ8DmuTHHC5e4l8F7xUAAAADUbxwo9C/MHj2qxs3Lx/stSrdsJgJew8jB2f/0UKRexFB08CHD+8te7qwzg4jfv+WECtP+E73hB1pEE4bsUjKE</EncryptedPassword>
+    <_PublishTargetUrl>ftp://GameStore111.mssql.somee.com/gamestoreru</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>
