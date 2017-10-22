@@ -1,0 +1,7 @@
+E:\Develop\Projects\Git\Traning\CommonC#\CommonApp\CommonApp\bin\Debug\CommonApp.exe.config
+E:\Develop\Projects\Git\Traning\CommonC#\CommonApp\CommonApp\bin\Debug\CommonApp.exe
+E:\Develop\Projects\Git\Traning\CommonC#\CommonApp\CommonApp\bin\Debug\CommonApp.pdb
+E:\Develop\Projects\Git\Traning\CommonC#\CommonApp\CommonApp\obj\Debug\CommonApp.csprojResolveAssemblyReference.cache
+E:\Develop\Projects\Git\Traning\CommonC#\CommonApp\CommonApp\obj\Debug\CommonApp.csproj.CoreCompileInputs.cache
+E:\Develop\Projects\Git\Traning\CommonC#\CommonApp\CommonApp\obj\Debug\CommonApp.exe
+E:\Develop\Projects\Git\Traning\CommonC#\CommonApp\CommonApp\obj\Debug\CommonApp.pdb
