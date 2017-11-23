@@ -24,9 +24,17 @@ public class Game : MonoBehaviour {
 
     private IEnumerator ChangeStatusEnum()
     {
-        using (UnityWebRequest www = UnityWebRequest.Put("http://localhost:51394/api/user/" + player.ID , JsonUtility.ToJson(player)))
+        using (UnityWebRequest www = UnityWebRequest.Head("http://localhost:51394/api/user/" + player.ID))
         {
+            www.method = "Patch";
+
+            string bodyJson = JsonUtility.ToJson(player);
+            byte[] body = new System.Text.UTF8Encoding().GetBytes(bodyJson);
+
+            www.uploadHandler = (UploadHandler)new UploadHandlerRaw(body);
+            www.downloadHandler = (DownloadHandler)new DownloadHandlerBuffer();
             www.SetRequestHeader("Content-Type", "application/json");
+
             yield return www.Send();
 
             if (www.isError)
@@ -40,7 +48,6 @@ public class Game : MonoBehaviour {
                 print(www.downloadHandler.text);
                 player = JsonUtility.FromJson<Player>(www.downloadHandler.text);
                 checker = true;
-                //if(player.Status == "Awaiting") print("The game was found");
             }
         }
     }   
@@ -77,8 +84,9 @@ public class Game : MonoBehaviour {
 
 public class Player
 {
-    public int ID = 3;
+    public int ID = 6;
     public string Username = "Max";
     public string Password = "Max1";
     public string Status = "Active";
+    public int Instance_id;
 }
