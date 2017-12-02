@@ -8,6 +8,7 @@ using System;
 public class Rest : MonoBehaviour {
 
 	public InputField UrlField;
+    public InputField UserStatus;
     public InputField[] UserField;
 	public Text Logs;
 
@@ -36,9 +37,14 @@ public class Rest : MonoBehaviour {
         StartCoroutine(PostEnum());
     }
 
-    public void Put()
+    /*public void Put()
     {
         StartCoroutine(PutEnum());
+    }*/
+
+    public void Patch()
+    {
+        StartCoroutine(PatchEnum());
     }
 
     public void Delete()
@@ -60,25 +66,34 @@ public class Rest : MonoBehaviour {
 			}else{
                 print(getReq.downloadHandler.text);
                 // юзеры
-                if (url.ToLower().Contains("user"))
+                if(getReq.downloadHandler.text != "[]")
                 {
-                    //Для каждого элемента из коллекции элементов
-                    foreach (string part in MiniJsonParse(getReq.downloadHandler.text))
+                    if (url.ToLower().Contains("user"))
                     {
-                        User user = JsonUtility.FromJson<User>(part);
-                        users.Add(user);
-                        Logs.text += user.Output();
+                        //Для каждого элемента из коллекции элементов
+                        foreach (string part in MiniJsonParse(getReq.downloadHandler.text))
+                        {
+                            print(part);
+                            User user = JsonUtility.FromJson<User>(part);
+                            users.Add(user);
+                            Logs.text += user.Output();
+                        }
+                    }
+                    // инстансы
+                    else if (url.ToLower().Contains("instance"))
+                    {
+                        foreach (string part in MiniJsonParse(getReq.downloadHandler.text))
+                        {
+                            Instance instance = JsonUtility.FromJson<Instance>(part);
+                            instances.Add(instance);
+                            Logs.text += instance.Output();
+                        }
                     }
                 }
-                // инстансы
-                else if (url.ToLower().Contains("instance"))
+                else
                 {
-                    foreach (string part in MiniJsonParse(getReq.downloadHandler.text))
-                    {
-                        Instance instance = JsonUtility.FromJson<Instance>(part);
-                        instances.Add(instance);
-                        Logs.text += instance.Output();
-                    }
+                    print("Collection is empty");
+                    Logs.text += "Collection is empty";
                 }
 			}
 		//Если запрос на конкретного пользователя
@@ -165,6 +180,38 @@ public class Rest : MonoBehaviour {
         } 
     }
 
+    private IEnumerator PatchEnum()
+    {
+        string url = UrlField.text;
+        User user = new User();
+        user.Status = UserStatus.text;
+
+        using (UnityWebRequest getReq = UnityWebRequest.Head(serverApi + url)) {
+
+            getReq.method = "Patch";
+            
+            string bodyJson = JsonUtility.ToJson(user);
+            byte[] body = new System.Text.UTF8Encoding().GetBytes(bodyJson);
+
+            getReq.uploadHandler = (UploadHandler) new UploadHandlerRaw(body);
+            getReq.downloadHandler = (DownloadHandler) new DownloadHandlerBuffer();
+            getReq.SetRequestHeader("Content-Type", "application/json");
+
+            yield return getReq.Send();
+
+            if (getReq.isError)
+            {
+                print(getReq.isError);
+                Logs.text += getReq.isError + "\r\n\r\n";
+            }
+            else
+            {
+                print("Form upload complete");
+                Logs.text += getReq.downloadHandler.text + " изменен\r\n\r\n";
+            }
+        }
+    }
+
     private IEnumerator DeleteEnum()
     {
         string url = UrlField.text;
@@ -178,15 +225,22 @@ public class Rest : MonoBehaviour {
         }
         else
         {
-            string id = "";
-            foreach (char c in url)
+            if (!IsNumberContains(url))
             {
-                if (Char.IsNumber(c))
-                {
-                   id += c;
-                }
+                Logs.text += "All was deleted\r\n\r\n";
             }
-            Logs.text += String.Format("The object on ID : " + id + " deleted\r\n\r\n");
+            else
+            {
+                string id = "";
+                foreach (char c in url)
+                {
+                    if (Char.IsNumber(c))
+                    {
+                        id += c;
+                    }
+                }
+                Logs.text += String.Format("The object on ID : " + id + " deleted\r\n\r\n");
+            }
         }
     }
 
@@ -210,13 +264,18 @@ public class Rest : MonoBehaviour {
     {
         string workMess = message;
         workMess = workMess.Trim(new char[] { '[', ']' });
-        string[] parts = workMess.Split(new string[] { "},{" },StringSplitOptions.RemoveEmptyEntries );
-        for(int i = 1 ; i < parts.Length - 1 ; i++)
+
+        string[] parts = workMess.Split(new string[] { "},{" }, StringSplitOptions.RemoveEmptyEntries);
+
+        if(parts.Length > 1)
         {
-            parts[i] = "{" + parts[i] + "}";
+            for (int i = 1; i < parts.Length - 1; i++)
+            {
+                parts[i] = "{" + parts[i] + "}";
+            }
+            parts[0] = parts[0] + "}";
+            parts[parts.Length - 1] = "{" + parts[parts.Length - 1];
         }
-        parts[0] = parts[0] + "}";
-        parts[parts.Length - 1] = "{" + parts[parts.Length - 1];
         return parts;
     }
 }
@@ -228,6 +287,7 @@ public class User{
 	public string Username;
 	public string Password;
 	public string Status;
+    public int? Instance_id;
 
     public User(){}
     
@@ -242,7 +302,9 @@ public class User{
         return message = "ID : " + ID +
                             "\r\n Username : " + Username +
                             "\r\n Password : " + Password +
-                            "\r\n Status : " + Status + "\r\n\r\n";
+                            "\r\n Status : " + Status + 
+                            "\r\n Instance_id : " + Instance_id +
+                            "\r\n\r\n";
     }
 }
 

@@ -5,3 +5,10 @@ E:\Develop\Projects\Git\Traning\CommonC#\CommonApp\CommonApp\obj\Debug\CommonApp
 E:\Develop\Projects\Git\Traning\CommonC#\CommonApp\CommonApp\obj\Debug\CommonApp.csproj.CoreCompileInputs.cache
 E:\Develop\Projects\Git\Traning\CommonC#\CommonApp\CommonApp\obj\Debug\CommonApp.exe
 E:\Develop\Projects\Git\Traning\CommonC#\CommonApp\CommonApp\obj\Debug\CommonApp.pdb
+D:\Develop\Projects\GitHub\Traning\CommonC#\CommonApp\CommonApp\bin\Debug\CommonApp.exe.config
+D:\Develop\Projects\GitHub\Traning\CommonC#\CommonApp\CommonApp\bin\Debug\CommonApp.exe
+D:\Develop\Projects\GitHub\Traning\CommonC#\CommonApp\CommonApp\bin\Debug\CommonApp.pdb
+D:\Develop\Projects\GitHub\Traning\CommonC#\CommonApp\CommonApp\obj\Debug\CommonApp.csprojResolveAssemblyReference.cache
+D:\Develop\Projects\GitHub\Traning\CommonC#\CommonApp\CommonApp\obj\Debug\CommonApp.csproj.CoreCompileInputs.cache
+D:\Develop\Projects\GitHub\Traning\CommonC#\CommonApp\CommonApp\obj\Debug\CommonApp.exe
+D:\Develop\Projects\GitHub\Traning\CommonC#\CommonApp\CommonApp\obj\Debug\CommonApp.pdb

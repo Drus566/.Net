@@ -12,7 +12,7 @@ namespace CommonApp
         {
             Test test = new Test();
 
-            test.TestEnums();
+            test.TestRefAndVarTypes();
 
             Console.ReadLine();
         }
@@ -96,6 +96,82 @@ namespace CommonApp
 
             Enums e = new Enums();
             e.MathOp(1, 2, Operation.Add);
+        }
+
+        public void TestStruct()
+        {
+            Book[] books = new Book[3];
+            books[0].name = "Война и мир";
+            books[0].author = "Л. Н. Толстой";
+            books[0].year = 1869;
+
+            books[1].name = "Преступление и наказание";
+            books[1].author = "Ф. М. Достоевский";
+            books[1].year = 1866;
+
+            books[2].name = "Отцы и дети";
+            books[2].author = "И. С. Тургенев";
+            books[2].year = 1862;
+
+            foreach (Book b in books)
+            {
+                b.Info();
+            }
+
+            Book book = new Book("Война и мир", "Л. Н. Толстой", 1869);
+            book.Info();
+        }
+
+        //тест try catch
+        public void TestExcep()
+        {
+            try
+            {
+                string message = Console.ReadLine();
+                if (message.Length > 6)
+                {
+                    throw new Exception("Длина строки больше 6 символов");
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Ошибка: " + e.Message);
+            }
+            int x = 1;
+            int y = 0;
+
+            try
+            {
+                int result = x / y;
+            }
+            catch (Exception ex) when (y == 0)
+            {
+                Console.WriteLine("y не должен быть равен 0");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            Console.ReadLine();
+        }
+
+        public void TestRef()
+        {
+            RefVarRefReturn r = new RefVarRefReturn();
+            r.SampleRef();
+            int[] numbers = { 1, 2, 3, 4, 5, 6, 7 };
+            ref int numberRef = ref r.Find(4, numbers);
+            numberRef = 9;
+            Console.WriteLine(numbers[3]);
+        }
+
+        public void TestRefAndVarTypes()
+        {
+            VarAndRefTypes v = new VarAndRefTypes();
+            v.SampleOne();
+            v.SampleTwo();
+            v.SampleThree();
+            v.SampleFour();
         }
     }
 }
