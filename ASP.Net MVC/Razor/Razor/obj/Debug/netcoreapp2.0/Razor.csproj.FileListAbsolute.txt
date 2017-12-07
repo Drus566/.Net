@@ -1,0 +1,11 @@
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Razor\Razor\bin\Debug\netcoreapp2.0\Razor.deps.json
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Razor\Razor\bin\Debug\netcoreapp2.0\Razor.runtimeconfig.json
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Razor\Razor\bin\Debug\netcoreapp2.0\Razor.runtimeconfig.dev.json
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Razor\Razor\bin\Debug\netcoreapp2.0\Razor.dll
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Razor\Razor\bin\Debug\netcoreapp2.0\Razor.pdb
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.csprojResolveAssemblyReference.cache
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.csproj.CoreCompileInputs.cache
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.AssemblyInfoInputs.cache
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.AssemblyInfo.cs
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.dll
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.pdb

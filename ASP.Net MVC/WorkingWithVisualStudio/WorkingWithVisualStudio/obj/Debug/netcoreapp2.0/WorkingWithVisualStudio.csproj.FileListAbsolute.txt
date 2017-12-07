@@ -1,0 +1,11 @@
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.deps.json
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.runtimeconfig.json
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.runtimeconfig.dev.json
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.dll
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.pdb
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.csprojResolveAssemblyReference.cache
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.csproj.CoreCompileInputs.cache
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.AssemblyInfoInputs.cache
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.AssemblyInfo.cs
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.dll
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.pdb

@@ -9,3 +9,14 @@ E:\Develop\Projects\Git\Traning\ASP.Net MVC\LanguageFeatures\LanguageFeatures\ob
 E:\Develop\Projects\Git\Traning\ASP.Net MVC\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.0\LanguageFeatures.AssemblyInfo.cs
 E:\Develop\Projects\Git\Traning\ASP.Net MVC\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.0\LanguageFeatures.dll
 E:\Develop\Projects\Git\Traning\ASP.Net MVC\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.0\LanguageFeatures.pdb
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp2.0\LanguageFeatures.deps.json
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp2.0\LanguageFeatures.runtimeconfig.json
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp2.0\LanguageFeatures.runtimeconfig.dev.json
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp2.0\LanguageFeatures.dll
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp2.0\LanguageFeatures.pdb
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.0\LanguageFeatures.csprojResolveAssemblyReference.cache
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.0\LanguageFeatures.csproj.CoreCompileInputs.cache
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.0\LanguageFeatures.AssemblyInfoInputs.cache
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.0\LanguageFeatures.AssemblyInfo.cs
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.0\LanguageFeatures.dll
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.0\LanguageFeatures.pdb
