@@ -1,0 +1,11 @@
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojResolveAssemblyReference.cache
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb

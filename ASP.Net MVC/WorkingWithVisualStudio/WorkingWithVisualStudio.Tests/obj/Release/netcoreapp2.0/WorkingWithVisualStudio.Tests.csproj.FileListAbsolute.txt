@@ -1,0 +1,16 @@
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Release\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Release\netcoreapp2.0\WorkingWithVisualStudio.Tests.deps.json
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Release\netcoreapp2.0\WorkingWithVisualStudio.Tests.runtimeconfig.json
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Release\netcoreapp2.0\WorkingWithVisualStudio.Tests.runtimeconfig.dev.json
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Release\netcoreapp2.0\WorkingWithVisualStudio.Tests.dll
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Release\netcoreapp2.0\WorkingWithVisualStudio.Tests.pdb
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Release\netcoreapp2.0\WorkingWithVisualStudio.dll
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Release\netcoreapp2.0\WorkingWithVisualStudio.pdb
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\obj\Release\netcoreapp2.0\WorkingWithVisualStudio.Tests.csprojResolveAssemblyReference.cache
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\obj\Release\netcoreapp2.0\WorkingWithVisualStudio.Tests.csproj.CoreCompileInputs.cache
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\obj\Release\netcoreapp2.0\WorkingWithVisualStudio.Tests.AssemblyInfoInputs.cache
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\obj\Release\netcoreapp2.0\WorkingWithVisualStudio.Tests.AssemblyInfo.cs
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\obj\Release\netcoreapp2.0\WorkingWithVisualStudio.Tests.dll
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\obj\Release\netcoreapp2.0\WorkingWithVisualStudio.Tests.pdb
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Release\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Release\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
