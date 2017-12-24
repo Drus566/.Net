@@ -1,0 +1,22 @@
+C:\Users\Admen\Desktop\pro-asp.net-core-mvc-master\pro-asp.net-core-mvc-master\Source Code 1-31\08 - SportsStore\SportsStore\src\SportsStore\bin\Debug\netcoreapp1.0\SportsStore.deps.json
+C:\Users\Admen\Desktop\pro-asp.net-core-mvc-master\pro-asp.net-core-mvc-master\Source Code 1-31\08 - SportsStore\SportsStore\src\SportsStore\bin\Debug\netcoreapp1.0\SportsStore.runtimeconfig.json
+C:\Users\Admen\Desktop\pro-asp.net-core-mvc-master\pro-asp.net-core-mvc-master\Source Code 1-31\08 - SportsStore\SportsStore\src\SportsStore\bin\Debug\netcoreapp1.0\SportsStore.runtimeconfig.dev.json
+C:\Users\Admen\Desktop\pro-asp.net-core-mvc-master\pro-asp.net-core-mvc-master\Source Code 1-31\08 - SportsStore\SportsStore\src\SportsStore\bin\Debug\netcoreapp1.0\SportsStore.dll
+C:\Users\Admen\Desktop\pro-asp.net-core-mvc-master\pro-asp.net-core-mvc-master\Source Code 1-31\08 - SportsStore\SportsStore\src\SportsStore\bin\Debug\netcoreapp1.0\SportsStore.pdb
+C:\Users\Admen\Desktop\pro-asp.net-core-mvc-master\pro-asp.net-core-mvc-master\Source Code 1-31\08 - SportsStore\SportsStore\src\SportsStore\obj\Debug\netcoreapp1.0\SportsStore.csprojResolveAssemblyReference.cache
+C:\Users\Admen\Desktop\pro-asp.net-core-mvc-master\pro-asp.net-core-mvc-master\Source Code 1-31\08 - SportsStore\SportsStore\src\SportsStore\obj\Debug\netcoreapp1.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\Admen\Desktop\pro-asp.net-core-mvc-master\pro-asp.net-core-mvc-master\Source Code 1-31\08 - SportsStore\SportsStore\src\SportsStore\obj\Debug\netcoreapp1.0\SportsStore.AssemblyInfoInputs.cache
+C:\Users\Admen\Desktop\pro-asp.net-core-mvc-master\pro-asp.net-core-mvc-master\Source Code 1-31\08 - SportsStore\SportsStore\src\SportsStore\obj\Debug\netcoreapp1.0\SportsStore.AssemblyInfo.cs
+C:\Users\Admen\Desktop\pro-asp.net-core-mvc-master\pro-asp.net-core-mvc-master\Source Code 1-31\08 - SportsStore\SportsStore\src\SportsStore\obj\Debug\netcoreapp1.0\SportsStore.dll
+C:\Users\Admen\Desktop\pro-asp.net-core-mvc-master\pro-asp.net-core-mvc-master\Source Code 1-31\08 - SportsStore\SportsStore\src\SportsStore\obj\Debug\netcoreapp1.0\SportsStore.pdb
+E:\Develop\Projects\Git\Traning\ASP.Net MVC\SportsStore\src\SportsStore\bin\Debug\netcoreapp1.0\SportsStore.deps.json
+E:\Develop\Projects\Git\Traning\ASP.Net MVC\SportsStore\src\SportsStore\bin\Debug\netcoreapp1.0\SportsStore.runtimeconfig.json
+E:\Develop\Projects\Git\Traning\ASP.Net MVC\SportsStore\src\SportsStore\bin\Debug\netcoreapp1.0\SportsStore.runtimeconfig.dev.json
+E:\Develop\Projects\Git\Traning\ASP.Net MVC\SportsStore\src\SportsStore\bin\Debug\netcoreapp1.0\SportsStore.dll
+E:\Develop\Projects\Git\Traning\ASP.Net MVC\SportsStore\src\SportsStore\bin\Debug\netcoreapp1.0\SportsStore.pdb
+E:\Develop\Projects\Git\Traning\ASP.Net MVC\SportsStore\src\SportsStore\obj\Debug\netcoreapp1.0\SportsStore.csprojResolveAssemblyReference.cache
+E:\Develop\Projects\Git\Traning\ASP.Net MVC\SportsStore\src\SportsStore\obj\Debug\netcoreapp1.0\SportsStore.csproj.CoreCompileInputs.cache
+E:\Develop\Projects\Git\Traning\ASP.Net MVC\SportsStore\src\SportsStore\obj\Debug\netcoreapp1.0\SportsStore.AssemblyInfoInputs.cache
+E:\Develop\Projects\Git\Traning\ASP.Net MVC\SportsStore\src\SportsStore\obj\Debug\netcoreapp1.0\SportsStore.AssemblyInfo.cs
+E:\Develop\Projects\Git\Traning\ASP.Net MVC\SportsStore\src\SportsStore\obj\Debug\netcoreapp1.0\SportsStore.dll
+E:\Develop\Projects\Git\Traning\ASP.Net MVC\SportsStore\src\SportsStore\obj\Debug\netcoreapp1.0\SportsStore.pdb
