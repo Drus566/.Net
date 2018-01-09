@@ -1,0 +1,4 @@
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\SportsStore\test\SportsStore.Tests\obj\Debug\netcoreapp1.0\SportsStore.Tests.csprojResolveAssemblyReference.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\SportsStore\test\SportsStore.Tests\obj\Debug\netcoreapp1.0\SportsStore.Tests.csproj.CoreCompileInputs.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\SportsStore\test\SportsStore.Tests\obj\Debug\netcoreapp1.0\SportsStore.Tests.AssemblyInfoInputs.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\SportsStore\test\SportsStore.Tests\obj\Debug\netcoreapp1.0\SportsStore.Tests.AssemblyInfo.cs

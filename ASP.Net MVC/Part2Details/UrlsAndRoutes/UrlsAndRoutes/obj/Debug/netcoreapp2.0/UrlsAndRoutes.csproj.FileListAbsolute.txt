@@ -1,0 +1,11 @@
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\UrlsAndRoutes\UrlsAndRoutes\bin\Debug\netcoreapp2.0\UrlsAndRoutes.deps.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\UrlsAndRoutes\UrlsAndRoutes\bin\Debug\netcoreapp2.0\UrlsAndRoutes.runtimeconfig.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\UrlsAndRoutes\UrlsAndRoutes\bin\Debug\netcoreapp2.0\UrlsAndRoutes.runtimeconfig.dev.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\UrlsAndRoutes\UrlsAndRoutes\bin\Debug\netcoreapp2.0\UrlsAndRoutes.dll
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\UrlsAndRoutes\UrlsAndRoutes\bin\Debug\netcoreapp2.0\UrlsAndRoutes.pdb
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\UrlsAndRoutes\UrlsAndRoutes\obj\Debug\netcoreapp2.0\UrlsAndRoutes.csprojResolveAssemblyReference.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\UrlsAndRoutes\UrlsAndRoutes\obj\Debug\netcoreapp2.0\UrlsAndRoutes.csproj.CoreCompileInputs.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\UrlsAndRoutes\UrlsAndRoutes\obj\Debug\netcoreapp2.0\UrlsAndRoutes.AssemblyInfoInputs.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\UrlsAndRoutes\UrlsAndRoutes\obj\Debug\netcoreapp2.0\UrlsAndRoutes.AssemblyInfo.cs
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\UrlsAndRoutes\UrlsAndRoutes\obj\Debug\netcoreapp2.0\UrlsAndRoutes.dll
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\UrlsAndRoutes\UrlsAndRoutes\obj\Debug\netcoreapp2.0\UrlsAndRoutes.pdb

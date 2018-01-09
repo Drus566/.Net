@@ -39,7 +39,7 @@ namespace SportsStore.Infrastructure {
             TagBuilder result = new TagBuilder("div");
             for (int i = 1; i <= PageModel.TotalPages; i++) {
                 TagBuilder tag = new TagBuilder("a");
-                PageUrlValues["productPage"] = i;
+                PageUrlValues["page"] = i;
                 tag.Attributes["href"] = urlHelper.Action(PageAction, PageUrlValues);
                 if (PageClassesEnabled) {
                     tag.AddCssClass(PageClass);

@@ -1,5 +1,5 @@
---temp-output:C:\Users\adam\Documents\Books\Pro MVC 6\Source Code\08 - SportsStore\SportsStore\test\SportsStore.Tests\obj\Debug\netcoreapp1.0\
---out:C:\Users\adam\Documents\Books\Pro MVC 6\Source Code\08 - SportsStore\SportsStore\test\SportsStore.Tests\bin\Debug\netcoreapp1.0\SportsStore.Tests.dll
+--temp-output:C:\Users\adam\Documents\Books\Pro MVC 6\Source Code\09 - SportsStore - Navigation\SportsStore\test\SportsStore.Tests\obj\Debug\netcoreapp1.0\
+--out:C:\Users\adam\Documents\Books\Pro MVC 6\Source Code\09 - SportsStore - Navigation\SportsStore\test\SportsStore.Tests\bin\Debug\netcoreapp1.0\SportsStore.Tests.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -210,8 +210,10 @@
 --reference:C:\Users\adam\.nuget\packages\xunit.extensibility.execution\2.1.0\lib\dotnet\xunit.execution.dotnet.dll
 --reference:C:\Users\adam\.nuget\packages\xunit.runner.reporters\2.2.0-beta2-build3300\lib\netstandard1.1\xunit.runner.reporters.dotnet.dll
 --reference:C:\Users\adam\.nuget\packages\xunit.runner.utility\2.2.0-beta2-build3300\lib\netstandard1.1\xunit.runner.utility.dotnet.dll
---reference:C:\Users\adam\Documents\Books\Pro MVC 6\Source Code\08 - SportsStore\SportsStore\src\SportsStore\bin\Debug\netcoreapp1.0\SportsStore.dll
-C:\Users\adam\Documents\Books\Pro MVC 6\Source Code\08 - SportsStore\SportsStore\test\SportsStore.Tests\Class1.cs
-C:\Users\adam\Documents\Books\Pro MVC 6\Source Code\08 - SportsStore\SportsStore\test\SportsStore.Tests\PageLinkTagHelperTests.cs
-C:\Users\adam\Documents\Books\Pro MVC 6\Source Code\08 - SportsStore\SportsStore\test\SportsStore.Tests\ProductControllerTests.cs
-C:\Users\adam\Documents\Books\Pro MVC 6\Source Code\08 - SportsStore\SportsStore\test\SportsStore.Tests\Properties\AssemblyInfo.cs
+--reference:C:\Users\adam\Documents\Books\Pro MVC 6\Source Code\09 - SportsStore - Navigation\SportsStore\src\SportsStore\bin\Debug\netcoreapp1.0\SportsStore.dll
+C:\Users\adam\Documents\Books\Pro MVC 6\Source Code\09 - SportsStore - Navigation\SportsStore\test\SportsStore.Tests\CartTests.cs
+C:\Users\adam\Documents\Books\Pro MVC 6\Source Code\09 - SportsStore - Navigation\SportsStore\test\SportsStore.Tests\Class1.cs
+C:\Users\adam\Documents\Books\Pro MVC 6\Source Code\09 - SportsStore - Navigation\SportsStore\test\SportsStore.Tests\NavigationMenuViewComponentTests.cs
+C:\Users\adam\Documents\Books\Pro MVC 6\Source Code\09 - SportsStore - Navigation\SportsStore\test\SportsStore.Tests\PageLinkTagHelperTests.cs
+C:\Users\adam\Documents\Books\Pro MVC 6\Source Code\09 - SportsStore - Navigation\SportsStore\test\SportsStore.Tests\ProductControllerTests.cs
+C:\Users\adam\Documents\Books\Pro MVC 6\Source Code\09 - SportsStore - Navigation\SportsStore\test\SportsStore.Tests\Properties\AssemblyInfo.cs

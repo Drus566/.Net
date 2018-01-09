@@ -6,6 +6,7 @@ using Microsoft.Extensions.Logging;
 using SportsStore.Models;
 using Microsoft.Extensions.Configuration;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace SportsStore {
 
@@ -19,54 +20,62 @@ namespace SportsStore {
         }
 
         public void ConfigureServices(IServiceCollection services) {
+
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(
                     Configuration["Data:SportStoreProducts:ConnectionString"]));
+
+            services.AddDbContext<AppIdentityDbContext>(options =>
+                options.UseSqlServer(
+                    Configuration["Data:SportStoreIdentity:ConnectionString"]));
+
+            services.AddIdentity<IdentityUser, IdentityRole>()
+                .AddEntityFrameworkStores<AppIdentityDbContext>();
+
             services.AddTransient<IProductRepository, EFProductRepository>();
+            services.AddScoped<Cart>(sp => SessionCart.GetCart(sp));
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+            services.AddTransient<IOrderRepository, EFOrderRepository>();
             services.AddMvc();
+            services.AddMemoryCache();
+            services.AddSession();
         }
 
         public void Configure(IApplicationBuilder app,
                 IHostingEnvironment env, ILoggerFactory loggerFactory) {
-                app.UseDeveloperExceptionPage();
-                app.UseStatusCodePages();
-                app.UseStaticFiles();
-            app.UseMvc(routes =>
-            {
+            app.UseDeveloperExceptionPage();
+            app.UseStatusCodePages();
+            app.UseStaticFiles();
+            app.UseSession();
+            app.UseIdentity();
+            app.UseMvc(routes => {
                 routes.MapRoute(
                     name: null,
-                    template: "{category}/Page{productPage:int}",
-                    defaults: new { controller = "Product", action = "List" });
+                    template: "{category}/Page{page:int}",
+                    defaults: new { controller = "Product", action = "List" }
+                );
+
                 routes.MapRoute(
                     name: null,
-                    template: "Page{productPage:int}",
-                    defaults: new
-                    {
-                        controller = "Product",
-                        action = "List",
-                        productPage = 1
-                    });
+                    template: "Page{page:int}",
+                    defaults: new { controller = "Product", action = "List", page = 1 }
+                );
+
                 routes.MapRoute(
                     name: null,
                     template: "{category}",
-                    defaults: new
-                    {
-                        controller = "Product",
-                        action = "List",
-                        productPage = 1
-                    });
+                    defaults: new { controller = "Product", action = "List", page = 1 }
+                );
+
                 routes.MapRoute(
                     name: null,
                     template: "",
-                    defaults: new
-                    {
-                        controller = "Product",
-                        action = "List",
-                        productPage = 1
-                    });
+                    defaults: new { controller = "Product", action = "List", page = 1 });
+
                 routes.MapRoute(name: null, template: "{controller}/{action}/{id?}");
             });
             SeedData.EnsurePopulated(app);
+            IdentitySeedData.EnsurePopulated(app);
         }
     }
 }

@@ -1,0 +1,11 @@
+e:\Develop\Projects\GitHub\Traning\ASP.Net MVC\InvitesProjects\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.deps.json
+e:\Develop\Projects\GitHub\Traning\ASP.Net MVC\InvitesProjects\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.json
+e:\Develop\Projects\GitHub\Traning\ASP.Net MVC\InvitesProjects\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.dev.json
+e:\Develop\Projects\GitHub\Traning\ASP.Net MVC\InvitesProjects\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.dll
+e:\Develop\Projects\GitHub\Traning\ASP.Net MVC\InvitesProjects\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.pdb
+e:\Develop\Projects\GitHub\Traning\ASP.Net MVC\InvitesProjects\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.csproj.CoreCompileInputs.cache
+e:\Develop\Projects\GitHub\Traning\ASP.Net MVC\InvitesProjects\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfoInputs.cache
+e:\Develop\Projects\GitHub\Traning\ASP.Net MVC\InvitesProjects\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfo.cs
+e:\Develop\Projects\GitHub\Traning\ASP.Net MVC\InvitesProjects\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.dll
+e:\Develop\Projects\GitHub\Traning\ASP.Net MVC\InvitesProjects\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.pdb
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\InvitesProjects\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.csprojResolveAssemblyReference.cache

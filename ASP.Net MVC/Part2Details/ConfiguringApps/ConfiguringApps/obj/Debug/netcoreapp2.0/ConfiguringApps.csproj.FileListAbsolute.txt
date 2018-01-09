@@ -1,0 +1,11 @@
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ConfiguringApps\ConfiguringApps\bin\Debug\netcoreapp2.0\ConfiguringApps.deps.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ConfiguringApps\ConfiguringApps\bin\Debug\netcoreapp2.0\ConfiguringApps.runtimeconfig.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ConfiguringApps\ConfiguringApps\bin\Debug\netcoreapp2.0\ConfiguringApps.runtimeconfig.dev.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ConfiguringApps\ConfiguringApps\bin\Debug\netcoreapp2.0\ConfiguringApps.dll
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ConfiguringApps\ConfiguringApps\bin\Debug\netcoreapp2.0\ConfiguringApps.pdb
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.csprojResolveAssemblyReference.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.csproj.CoreCompileInputs.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.AssemblyInfoInputs.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.AssemblyInfo.cs
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.dll
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ConfiguringApps\ConfiguringApps\obj\Debug\netcoreapp2.0\ConfiguringApps.pdb
