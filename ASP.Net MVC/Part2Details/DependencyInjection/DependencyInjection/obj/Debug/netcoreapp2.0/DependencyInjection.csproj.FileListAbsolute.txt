@@ -1,0 +1,11 @@
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.deps.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.runtimeconfig.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.runtimeconfig.dev.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.dll
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\DependencyInjection\DependencyInjection\bin\Debug\netcoreapp2.0\DependencyInjection.pdb
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.csprojResolveAssemblyReference.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.csproj.CoreCompileInputs.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.AssemblyInfoInputs.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.AssemblyInfo.cs
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.dll
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\DependencyInjection\DependencyInjection\obj\Debug\netcoreapp2.0\DependencyInjection.pdb

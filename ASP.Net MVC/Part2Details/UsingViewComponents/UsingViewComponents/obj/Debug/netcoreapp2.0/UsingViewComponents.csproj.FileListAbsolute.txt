@@ -1,0 +1,11 @@
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\UsingViewComponents\UsingViewComponents\bin\Debug\netcoreapp2.0\UsingViewComponents.deps.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\UsingViewComponents\UsingViewComponents\bin\Debug\netcoreapp2.0\UsingViewComponents.runtimeconfig.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\UsingViewComponents\UsingViewComponents\bin\Debug\netcoreapp2.0\UsingViewComponents.runtimeconfig.dev.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\UsingViewComponents\UsingViewComponents\bin\Debug\netcoreapp2.0\UsingViewComponents.dll
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\UsingViewComponents\UsingViewComponents\bin\Debug\netcoreapp2.0\UsingViewComponents.pdb
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\UsingViewComponents\UsingViewComponents\obj\Debug\netcoreapp2.0\UsingViewComponents.csproj.CoreCompileInputs.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\UsingViewComponents\UsingViewComponents\obj\Debug\netcoreapp2.0\UsingViewComponents.AssemblyInfoInputs.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\UsingViewComponents\UsingViewComponents\obj\Debug\netcoreapp2.0\UsingViewComponents.AssemblyInfo.cs
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\UsingViewComponents\UsingViewComponents\obj\Debug\netcoreapp2.0\UsingViewComponents.dll
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\UsingViewComponents\UsingViewComponents\obj\Debug\netcoreapp2.0\UsingViewComponents.pdb
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\UsingViewComponents\UsingViewComponents\obj\Debug\netcoreapp2.0\UsingViewComponents.csprojResolveAssemblyReference.cache

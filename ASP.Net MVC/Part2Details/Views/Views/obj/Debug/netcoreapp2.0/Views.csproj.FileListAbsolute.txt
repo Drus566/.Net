@@ -1,0 +1,11 @@
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Views\Views\bin\Debug\netcoreapp2.0\Views.deps.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Views\Views\bin\Debug\netcoreapp2.0\Views.runtimeconfig.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Views\Views\bin\Debug\netcoreapp2.0\Views.runtimeconfig.dev.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Views\Views\bin\Debug\netcoreapp2.0\Views.dll
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Views\Views\bin\Debug\netcoreapp2.0\Views.pdb
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Views\Views\obj\Debug\netcoreapp2.0\Views.csprojResolveAssemblyReference.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Views\Views\obj\Debug\netcoreapp2.0\Views.csproj.CoreCompileInputs.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Views\Views\obj\Debug\netcoreapp2.0\Views.AssemblyInfoInputs.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Views\Views\obj\Debug\netcoreapp2.0\Views.AssemblyInfo.cs
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Views\Views\obj\Debug\netcoreapp2.0\Views.dll
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Views\Views\obj\Debug\netcoreapp2.0\Views.pdb

@@ -1,0 +1,11 @@
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Filters\ApiControllers\ApiControllers\bin\Debug\netcoreapp2.0\ApiControllers.deps.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Filters\ApiControllers\ApiControllers\bin\Debug\netcoreapp2.0\ApiControllers.runtimeconfig.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Filters\ApiControllers\ApiControllers\bin\Debug\netcoreapp2.0\ApiControllers.runtimeconfig.dev.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Filters\ApiControllers\ApiControllers\bin\Debug\netcoreapp2.0\ApiControllers.dll
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Filters\ApiControllers\ApiControllers\bin\Debug\netcoreapp2.0\ApiControllers.pdb
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Filters\ApiControllers\ApiControllers\obj\Debug\netcoreapp2.0\ApiControllers.csprojResolveAssemblyReference.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Filters\ApiControllers\ApiControllers\obj\Debug\netcoreapp2.0\ApiControllers.csproj.CoreCompileInputs.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Filters\ApiControllers\ApiControllers\obj\Debug\netcoreapp2.0\ApiControllers.AssemblyInfoInputs.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Filters\ApiControllers\ApiControllers\obj\Debug\netcoreapp2.0\ApiControllers.AssemblyInfo.cs
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Filters\ApiControllers\ApiControllers\obj\Debug\netcoreapp2.0\ApiControllers.dll
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Filters\ApiControllers\ApiControllers\obj\Debug\netcoreapp2.0\ApiControllers.pdb

@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Cities</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css"
+          asp-fallback-href-include="/lib/bootstrap/dist/**/*.min.css"
+          asp-fallback-href-exclude="**/*-reboot*,**/*-grid*"
+          asp-fallback-test-class="btn"
+          asp-fallback-test-property="display"
+          asp-fallback-test-value="inline-block"
+          rel="stylesheet" />
+</head>
+<body class="m-1 p-1">
+    <cache>
+        @await Component.InvokeAsync("Time")
+    </cache>
+    
+    <div>@RenderBody()</div>
+</body>
+</html>

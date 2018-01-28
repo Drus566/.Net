@@ -1,0 +1,11 @@
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Cities\Cities\bin\Debug\netcoreapp2.0\Cities.deps.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Cities\Cities\bin\Debug\netcoreapp2.0\Cities.runtimeconfig.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Cities\Cities\bin\Debug\netcoreapp2.0\Cities.runtimeconfig.dev.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Cities\Cities\bin\Debug\netcoreapp2.0\Cities.dll
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Cities\Cities\bin\Debug\netcoreapp2.0\Cities.pdb
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Cities\Cities\obj\Debug\netcoreapp2.0\Cities.csprojResolveAssemblyReference.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Cities\Cities\obj\Debug\netcoreapp2.0\Cities.csproj.CoreCompileInputs.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Cities\Cities\obj\Debug\netcoreapp2.0\Cities.AssemblyInfoInputs.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Cities\Cities\obj\Debug\netcoreapp2.0\Cities.AssemblyInfo.cs
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Cities\Cities\obj\Debug\netcoreapp2.0\Cities.dll
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Cities\Cities\obj\Debug\netcoreapp2.0\Cities.pdb

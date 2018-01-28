@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using UrlsAndRoutes.Models;
+using System;
 
 namespace UrlsAndRoutes.Controllers
 {
@@ -12,14 +13,15 @@ namespace UrlsAndRoutes.Controllers
                 Action = nameof(Index)
             });
 
-        public ViewResult CustomVariable()
+        public ViewResult CustomVariable(string id)
         {
             Result r = new Result
             {
                 Controller = nameof(HomeController),
                 Action = nameof(CustomVariable),
             };
-            r.Data["Id"] = RouteData.Values["id"];
+            r.Data["Id"] = id ?? "<no value>";
+            r.Data["Url"] = Url.Action("CustomVariable", "Home", new { id = 100 });
             return View("Result", r);
         }
     }

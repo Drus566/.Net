@@ -1,0 +1,11 @@
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Filters\Filters\bin\Debug\netcoreapp2.0\Filters.deps.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Filters\Filters\bin\Debug\netcoreapp2.0\Filters.runtimeconfig.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Filters\Filters\bin\Debug\netcoreapp2.0\Filters.runtimeconfig.dev.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Filters\Filters\bin\Debug\netcoreapp2.0\Filters.dll
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Filters\Filters\bin\Debug\netcoreapp2.0\Filters.pdb
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Filters\Filters\obj\Debug\netcoreapp2.0\Filters.csprojResolveAssemblyReference.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Filters\Filters\obj\Debug\netcoreapp2.0\Filters.csproj.CoreCompileInputs.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Filters\Filters\obj\Debug\netcoreapp2.0\Filters.AssemblyInfoInputs.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Filters\Filters\obj\Debug\netcoreapp2.0\Filters.AssemblyInfo.cs
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Filters\Filters\obj\Debug\netcoreapp2.0\Filters.dll
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\Filters\Filters\obj\Debug\netcoreapp2.0\Filters.pdb

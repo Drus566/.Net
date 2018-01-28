@@ -1,0 +1,11 @@
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ControllersAndActions\ControllersAndActions\bin\Debug\netcoreapp2.0\ControllersAndActions.deps.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ControllersAndActions\ControllersAndActions\bin\Debug\netcoreapp2.0\ControllersAndActions.runtimeconfig.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ControllersAndActions\ControllersAndActions\bin\Debug\netcoreapp2.0\ControllersAndActions.runtimeconfig.dev.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ControllersAndActions\ControllersAndActions\bin\Debug\netcoreapp2.0\ControllersAndActions.dll
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ControllersAndActions\ControllersAndActions\bin\Debug\netcoreapp2.0\ControllersAndActions.pdb
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ControllersAndActions\ControllersAndActions\obj\Debug\netcoreapp2.0\ControllersAndActions.csprojResolveAssemblyReference.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ControllersAndActions\ControllersAndActions\obj\Debug\netcoreapp2.0\ControllersAndActions.csproj.CoreCompileInputs.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ControllersAndActions\ControllersAndActions\obj\Debug\netcoreapp2.0\ControllersAndActions.AssemblyInfoInputs.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ControllersAndActions\ControllersAndActions\obj\Debug\netcoreapp2.0\ControllersAndActions.AssemblyInfo.cs
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ControllersAndActions\ControllersAndActions\obj\Debug\netcoreapp2.0\ControllersAndActions.dll
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ControllersAndActions\ControllersAndActions\obj\Debug\netcoreapp2.0\ControllersAndActions.pdb
