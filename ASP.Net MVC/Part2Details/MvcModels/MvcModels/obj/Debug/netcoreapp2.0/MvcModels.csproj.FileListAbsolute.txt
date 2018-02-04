@@ -9,3 +9,14 @@ D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\MvcModels\MvcModels\
 D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\MvcModels\MvcModels\obj\Debug\netcoreapp2.0\MvcModels.dll
 D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\MvcModels\MvcModels\obj\Debug\netcoreapp2.0\MvcModels.pdb
 D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\MvcModels\MvcModels\obj\Debug\netcoreapp2.0\MvcModels.csprojResolveAssemblyReference.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\MvcModels\MvcModels\bin\Debug\netcoreapp2.0\MvcModels.deps.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\MvcModels\MvcModels\bin\Debug\netcoreapp2.0\MvcModels.runtimeconfig.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\MvcModels\MvcModels\bin\Debug\netcoreapp2.0\MvcModels.runtimeconfig.dev.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\MvcModels\MvcModels\bin\Debug\netcoreapp2.0\MvcModels.dll
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\MvcModels\MvcModels\bin\Debug\netcoreapp2.0\MvcModels.pdb
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\MvcModels\MvcModels\obj\Debug\netcoreapp2.0\MvcModels.csprojResolveAssemblyReference.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\MvcModels\MvcModels\obj\Debug\netcoreapp2.0\MvcModels.csproj.CoreCompileInputs.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\MvcModels\MvcModels\obj\Debug\netcoreapp2.0\MvcModels.AssemblyInfoInputs.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\MvcModels\MvcModels\obj\Debug\netcoreapp2.0\MvcModels.AssemblyInfo.cs
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\MvcModels\MvcModels\obj\Debug\netcoreapp2.0\MvcModels.dll
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\MvcModels\MvcModels\obj\Debug\netcoreapp2.0\MvcModels.pdb

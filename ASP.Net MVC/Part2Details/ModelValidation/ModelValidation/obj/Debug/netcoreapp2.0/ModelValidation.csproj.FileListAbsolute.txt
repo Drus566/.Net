@@ -1,0 +1,11 @@
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ModelValidation\ModelValidation\bin\Debug\netcoreapp2.0\ModelValidation.deps.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ModelValidation\ModelValidation\bin\Debug\netcoreapp2.0\ModelValidation.runtimeconfig.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ModelValidation\ModelValidation\bin\Debug\netcoreapp2.0\ModelValidation.runtimeconfig.dev.json
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ModelValidation\ModelValidation\bin\Debug\netcoreapp2.0\ModelValidation.dll
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ModelValidation\ModelValidation\bin\Debug\netcoreapp2.0\ModelValidation.pdb
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ModelValidation\ModelValidation\obj\Debug\netcoreapp2.0\ModelValidation.csproj.CoreCompileInputs.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ModelValidation\ModelValidation\obj\Debug\netcoreapp2.0\ModelValidation.AssemblyInfoInputs.cache
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ModelValidation\ModelValidation\obj\Debug\netcoreapp2.0\ModelValidation.AssemblyInfo.cs
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ModelValidation\ModelValidation\obj\Debug\netcoreapp2.0\ModelValidation.dll
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ModelValidation\ModelValidation\obj\Debug\netcoreapp2.0\ModelValidation.pdb
+E:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ModelValidation\ModelValidation\obj\Debug\netcoreapp2.0\ModelValidation.csprojResolveAssemblyReference.cache
