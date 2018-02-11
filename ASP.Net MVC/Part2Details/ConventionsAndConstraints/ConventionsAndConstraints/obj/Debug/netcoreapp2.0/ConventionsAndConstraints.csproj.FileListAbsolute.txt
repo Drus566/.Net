@@ -1,0 +1,11 @@
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ConventionsAndConstraints\ConventionsAndConstraints\bin\Debug\netcoreapp2.0\ConventionsAndConstraints.deps.json
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ConventionsAndConstraints\ConventionsAndConstraints\bin\Debug\netcoreapp2.0\ConventionsAndConstraints.runtimeconfig.json
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ConventionsAndConstraints\ConventionsAndConstraints\bin\Debug\netcoreapp2.0\ConventionsAndConstraints.runtimeconfig.dev.json
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ConventionsAndConstraints\ConventionsAndConstraints\bin\Debug\netcoreapp2.0\ConventionsAndConstraints.dll
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ConventionsAndConstraints\ConventionsAndConstraints\bin\Debug\netcoreapp2.0\ConventionsAndConstraints.pdb
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ConventionsAndConstraints\ConventionsAndConstraints\obj\Debug\netcoreapp2.0\ConventionsAndConstraints.csproj.CoreCompileInputs.cache
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ConventionsAndConstraints\ConventionsAndConstraints\obj\Debug\netcoreapp2.0\ConventionsAndConstraints.AssemblyInfoInputs.cache
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ConventionsAndConstraints\ConventionsAndConstraints\obj\Debug\netcoreapp2.0\ConventionsAndConstraints.AssemblyInfo.cs
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ConventionsAndConstraints\ConventionsAndConstraints\obj\Debug\netcoreapp2.0\ConventionsAndConstraints.dll
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ConventionsAndConstraints\ConventionsAndConstraints\obj\Debug\netcoreapp2.0\ConventionsAndConstraints.pdb
+D:\Develop\Projects\GitHub\Traning\ASP.Net MVC\Part2Details\ConventionsAndConstraints\ConventionsAndConstraints\obj\Debug\netcoreapp2.0\ConventionsAndConstraints.csprojResolveAssemblyReference.cache

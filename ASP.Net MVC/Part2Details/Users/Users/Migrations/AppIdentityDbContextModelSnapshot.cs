@@ -135,6 +135,8 @@ namespace Users.Migrations
 
                     b.Property<int>("AccessFailedCount");
 
+                    b.Property<int>("City");
+
                     b.Property<string>("ConcurrencyStamp")
                         .IsConcurrencyToken();
 
@@ -158,6 +160,8 @@ namespace Users.Migrations
                     b.Property<string>("PhoneNumber");
 
                     b.Property<bool>("PhoneNumberConfirmed");
+
+                    b.Property<int>("Qualifications");
 
                     b.Property<string>("SecurityStamp");
 
